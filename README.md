@@ -45,7 +45,8 @@ Modern inventory management software helps automate processes, improve accuracy,
 
 ## 🛠️ Popular Tools (Examples)
 
-- Cin7  
+- Cin7
+- GOIS
 - Odoo Inventory  
 - Zoho Inventory  
 - Finale Inventory  
